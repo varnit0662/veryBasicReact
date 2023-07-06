@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/veryBasicReact/static/css/main.073c9b0a.css",
+    "main.js": "/veryBasicReact/static/js/main.3e265ed5.js",
+    "static/js/787.0c3f432a.chunk.js": "/veryBasicReact/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/veryBasicReact/index.html",
+    "main.073c9b0a.css.map": "/veryBasicReact/static/css/main.073c9b0a.css.map",
+    "main.3e265ed5.js.map": "/veryBasicReact/static/js/main.3e265ed5.js.map",
+    "787.0c3f432a.chunk.js.map": "/veryBasicReact/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3e265ed5.js"
+  ]
+}
